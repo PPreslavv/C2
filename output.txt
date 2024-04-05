@@ -1,49 +1,23 @@
 Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1>cmd /k whoami /all
+C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net8.0>cmd /k dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4C0A-E597
 
-USER INFORMATION
-----------------
+ Directory of C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net8.0
 
-User Name             SID                                           
-===================== ==============================================
-desktop-luusps4\presl S-1-5-21-2069786673-3223570303-3927750820-1001
+04/05/2024  01:53 PM    <DIR>          .
+04/05/2024  01:53 PM    <DIR>          ..
+04/05/2024  01:53 PM               993 ConsoleApp1.deps.json
+04/05/2024  01:53 PM             8,192 ConsoleApp1.dll
+04/05/2024  01:53 PM           140,800 ConsoleApp1.exe
+04/05/2024  01:53 PM            11,140 ConsoleApp1.pdb
+04/05/2024  01:53 PM               340 ConsoleApp1.runtimeconfig.json
+02/23/2024  03:39 AM         1,339,392 Octokit.dll
+               6 File(s)      1,500,857 bytes
+               2 Dir(s)  210,372,153,344 bytes free
 
-
-GROUP INFORMATION
------------------
-
-Group Name                                                    Type             SID                                                                                                          Attributes                                        
-============================================================= ================ ============================================================================================================ ==================================================
-Mandatory Label\Medium Mandatory Level                        Label            S-1-16-8192                                                                                                                                                    
-Everyone                                                      Well-known group S-1-1-0                                                                                                      Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\Local account and member of Administrators group Well-known group S-1-5-114                                                                                                    Group used for deny only                          
-BUILTIN\Administrators                                        Alias            S-1-5-32-544                                                                                                 Group used for deny only                          
-BUILTIN\Users                                                 Alias            S-1-5-32-545                                                                                                 Mandatory group, Enabled by default, Enabled group
-BUILTIN\Performance Log Users                                 Alias            S-1-5-32-559                                                                                                 Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\INTERACTIVE                                      Well-known group S-1-5-4                                                                                                      Mandatory group, Enabled by default, Enabled group
-CONSOLE LOGON                                                 Well-known group S-1-2-1                                                                                                      Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\Authenticated Users                              Well-known group S-1-5-11                                                                                                     Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\This Organization                                Well-known group S-1-5-15                                                                                                     Mandatory group, Enabled by default, Enabled group
-MicrosoftAccount\preslav.mitkov@proton.me                     User             S-1-11-96-3623454863-58364-18864-2661722203-1597581903-4137181420-3922104623-1529107845-248059114-2886013375 Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\Local account                                    Well-known group S-1-5-113                                                                                                    Mandatory group, Enabled by default, Enabled group
-LOCAL                                                         Well-known group S-1-2-0                                                                                                      Mandatory group, Enabled by default, Enabled group
-NT AUTHORITY\Cloud Account Authentication                     Well-known group S-1-5-64-36                                                                                                  Mandatory group, Enabled by default, Enabled group
-
-
-PRIVILEGES INFORMATION
-----------------------
-
-Privilege Name                Description                          State   
-============================= ==================================== ========
-SeShutdownPrivilege           Shut down the system                 Disabled
-SeChangeNotifyPrivilege       Bypass traverse checking             Enabled 
-SeUndockPrivilege             Remove computer from docking station Disabled
-SeIncreaseWorkingSetPrivilege Increase a process working set       Disabled
-SeTimeZonePrivilege           Change the time zone                 Disabled
-
-
-C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1>
-C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1>
-C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1>
+C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net8.0>
+C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net8.0>
+C:\Users\presl\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\net8.0>
